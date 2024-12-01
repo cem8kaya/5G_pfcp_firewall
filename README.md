@@ -134,7 +134,7 @@ brew install openssl@3
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pfcp_firewall.git
+git clone https://github.com/cem8kaya/pfcp_firewall.git
 cd pfcp_firewall
 ```
 
